@@ -4,6 +4,7 @@
   "description": " Stream me is a webRTC implementation user can video call peer to peer with another user by using almost all browser.",
   "main": "index.js",
   "repository": {},
+
   "scripts": {
     "start": "node server.js",
     "dev": "webpack --mode development",
